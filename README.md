@@ -1,7 +1,7 @@
 # My Top Movies
 
 ## Introduction
-My 
+My top movies is a web app that display movies with title in a card form. User can search for the movies on IMDB Database, then add it to this web app, save, modify rating, or delete it.
 
 ## Technology
 List of technology
