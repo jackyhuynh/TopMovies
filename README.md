@@ -1,13 +1,7 @@
-# TEMPLATE for PYTHON Developer using PYCHARM
+# My Top Movies
 
 ## Introduction
- Simply introduce the project that specically built with PyCharm. 
-I believe the simplier the Readme file, the easier to read
-- You can also keep this private and organize this GitHub as a private libary for yourself.
-<img src="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/images/instruction.JPG">
-
-## Documents/Research Paper
-Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
+My 
 
 ## Technology
 List of technology
@@ -21,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them
 - PyCharm Community IDE: Be More Productive: Save time while PyCharm takes care of the routine. Focus on the bigger things and embrace the keyboard-centric approach to get the most of PyCharm's many productivity features. Get Smart Assistance: PyCharm knows everything about your code. Rely on it for intelligent code completion, on-the-fly error checking and quick-fixes, easy project navigation, and much more.
-
+- Please download open the source folder as a project (right click on the src folder and run as open Python Project using PyCharm). 
 
 ### Installing
 A step by step series of examples that tell you how to get a development enviroment running:
