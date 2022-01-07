@@ -7,14 +7,15 @@ from wtforms.validators import DataRequired
 from sqlalchemy.sql import exists
 import requests
 
-MOVIE_DB_API_KEY = '954f81fa074491f530740fbe1342a460'
+# Replace this with your own API
+MOVIE_DB_API_KEY = 'Please put your API key here'
 MOVIE_DB_SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
 MOVIE_DB_INFO_URL = "https://api.themoviedb.org/3/movie"
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
 
 # Create Flask Application
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = 'Put your own secret here' # Please put your own secret here
 Bootstrap(app)
 
 ##CREATE DB
