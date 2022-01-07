@@ -34,7 +34,7 @@ What things you need to install the software and how to install them
 - PLease download all the necessary packages before run the application. If you use PyCharm, it will take care of your missing package or
 ```
 # or u can use
-pip install all-missing-package(replace this with the package you intend to install)
+pip install all-missing-package(replace all-missing-package with the package(packages) that you intend to install)
 ```
 
 ### Installing
