@@ -3,11 +3,19 @@
 ## Introduction
 My top movies is a web app that display movies with title in a card form. User can search for the movies on IMDB Database, then add it to this web app, save, modify rating, or delete it.
 
+<img src="https://github.com/jackyhuynh/my-top-movies/blob/main/images/home.gif">
+
 ## Technology
 List of technology
 - Python 
 - Object Oriented Design
 - PyCharm IDE
+## Structure:
+#### Home Page:
+- The homepage equiped with the cards. User can update rating or their review by clicking on the respective button.
+- Hit the search button to search for more movie, please not user can only add movies to their database.
+<img src="https://github.com/jackyhuynh/my-top-movies/blob/main/images/home.JPG">
+
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
