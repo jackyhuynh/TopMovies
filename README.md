@@ -30,7 +30,12 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them
 - PyCharm Community IDE: Be More Productive: Save time while PyCharm takes care of the routine. Focus on the bigger things and embrace the keyboard-centric approach to get the most of PyCharm's many productivity features. Get Smart Assistance: PyCharm knows everything about your code. Rely on it for intelligent code completion, on-the-fly error checking and quick-fixes, easy project navigation, and much more.
-- Please download open the source folder as a project (right click on the src folder and run as open Python Project using PyCharm). 
+- Please download open the source folder as a project (right click on the folder that contain main, templates, static, and venv and run as open Python Project using PyCharm). 
+- PLease download all the necessary packages before run the application. If you use PyCharm, it will take care of your missing package or
+```
+# or u can use
+pip install all-missing-package(replace this with the package you intend to install)
+```
 
 ### Installing
 A step by step series of examples that tell you how to get a development enviroment running:
